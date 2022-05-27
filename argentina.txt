@@ -1,1 +1,24 @@
-Maxi
+Maxi mentor
+
+
+git branch nombreNUevaRama
+git checkout nombreNUevaRama
+
+========= 
+
+git checkout -b nombreNUevaRama
+
+=========
+
+git switch -c nombreNUevaRama
+
+===== 
+//mover entre ramas 
+
+git checkout nombreNUevaRama
+
+===== 
+
+//mover entre commits 
+
+git checkout 
